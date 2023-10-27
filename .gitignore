@@ -1,0 +1,5 @@
+/vendor/**
+/.direnv/**
+/.bundle/**
+/result
+/result-*
